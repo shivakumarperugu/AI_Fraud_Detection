@@ -1,0 +1,22 @@
+label,text
+legit,Please confirm your bank account details for invoice payment.
+fraud,Your account has been suspended due to suspicious activity. Click to verify.
+legit,Meeting confirmed for tomorrow at 10 AM.
+fraud,We detected unusual charges. Call our fraud hotline immediately at 1800-XXX-XXXX.
+legit,Can you send the transaction report to finance by EOD?
+fraud,Congratulations! You won a reward. Provide your details to claim.
+legit,Reminder: the vendor payment is due on Friday.
+fraud,Authorize this remote access session now to avoid service interruption.
+legit,The support ticket has been updated with the latest audit log.
+fraud,Your wallet is locked. Enter OTP to unlock and recover funds.
+legit,Please review and approve the travel reimbursement request.
+fraud,This is a confidential security alert. Log in with your secure token.
+legit,The delivery has been scheduled for your order.
+fraud,You have been selected for a refund. Send card info to receive it.
+legit,Happy birthday! Your new account statement is ready to view.
+fraud,A package delivery was attempted. Pay the customs fee to release.
+legit,The debug session log is attached for your review.
+fraud,Verify your payment method to prevent termination of service.
+legit,Our next compliance review is on Tuesday.
+fraud,Flash alert: your invoice is overdue. Transfer immediately.
+legit,Call the vendor to confirm the shipment arrival.
